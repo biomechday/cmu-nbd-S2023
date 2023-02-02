@@ -17,4 +17,15 @@ nav:
 %}
 {:.center}
 
+{% include section.html full=true %}
 
+{% include banner.html image="images/cmu-banner-inkscapepng.png" %}
+
+{% include section.html %}
+
+{%
+  include feature.html
+  image="images/icon-register.png"
+  link="registration/"
+%}
+{:.center}
