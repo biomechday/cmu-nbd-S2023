@@ -4,7 +4,7 @@ title: Home
 
 # CMU National Biomechanics Day 2023
 
-Welcome to National Biomechanics Day at CMU! Register for the event [here](registration/). This is a two-day event held virtually on March 26th and in-person at CMU on April 2nd. We aim to introduce Biomechanics to high school students and teachers. Learn about [the muscles in your hand](sessions/muscles-the-workings-of-the-hand), [3D printed prostheses](sessions/3d-printing-legs), how to be a [rock climber](sessions/become-a-rock-climber), and [more](activities/)!
+Welcome to National Biomechanics Day at CMU! Register for the event [here](registration/). This is a two-day event held virtually on March 18th and in-person at CMU on March 25th. We aim to introduce Biomechanics to high school students and teachers. Learn about [the muscles in your hand](sessions/muscles-the-workings-of-the-hand), [3D printed prostheses](sessions/3d-printing-legs), how to be a [rock climber](sessions/become-a-rock-climber), and [more](activities/)!
 
 
 {%
