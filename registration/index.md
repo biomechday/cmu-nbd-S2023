@@ -23,9 +23,9 @@ nav:
 
 {% include section.html %}
 
-{%
+<!-- {%
   include feature.html
   image="images/icon-register.png"
   link="registration/"
 %}
-{:.center}
+{:.center} -->
