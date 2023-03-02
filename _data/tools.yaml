@@ -14,7 +14,7 @@
   group: featured
   image: images/muscles-the-working-of-the-hand-1.png
   link: sessions/muscles-the-workings-of-the-hand
-  description: Learn and test how the muscles in out hands work and how they can fail. We will have fun experiments for you to try.
+  description: Learn about hand anatomy and make a model hand to display how tendons work.
   # repo: greenelab/lab-website-template
   tags:
     - muscles
@@ -32,7 +32,7 @@
     - controls
 
 - title: Markerless Motion Capture
-  subtitle: Vu Phan
+  subtitle: Vu Phan, Jack Li
   group: more
   image: images/motion-capture.jpg
   link: sessions/markerless-motion-capture
@@ -43,13 +43,14 @@
     - movie
     - games
     - computer vision
+    - motion
 
 - title: Challenges during Organ Preservation
-  subtitle: Devarsh Vispute
+  subtitle: Devarsh Vispute, Rounak Baheti
   group: more
   image: images/organ_cryopreservation.jpg
   link: sessions/organ-cryopreservation
-  description: Learn about how low temperatures affect organ preservation.
+  description: Learn about current organ preservation methods, their limitations and challenges.
   # repo: greenelab/lab-website-template
   # https://pharma-mon.com/organ-transport-monitoring/future-of-cryopreservation-clinical-applications/
   tags:
@@ -57,13 +58,37 @@
     - cryo-EM
     - healthcare
 
-- title: Become a Rock Climber
+- title: Mechanics of Rock Climbing
   subtitle: Nathan Zimmerer
   group: more
   image: images/alex-honnold.jpg
   link: sessions/become-a-rock-climber
-  description: Learn about the biomechanics of rock climbing. Become Alex Honnold is 60 minutes or less guaranteed.
+  description: Explore different ways to leverage biomechanics in the rock climbing sport.
   # repo: greenelab/lab-website-template
   # https://pharma-mon.com/organ-transport-monitoring/future-of-cryopreservation-clinical-applications/
   tags:
     - rock climbing
+
+- title: Biomechanics of Hand Rigging and Animation
+  subtitle: Dailyn Despradel, Prakarsh Yadav
+  group: more
+  image: images/thing.gif
+  link: sessions/hand-rigging-and-animation
+  description: Learn the process of 3D character animation through the rigging and animation of "Thing".
+  # repo: greenelab/lab-website-template
+  # https://gifer.com/en/46Hi
+  tags:
+    - animation
+
+- title: MiniRHex
+  subtitle: Alex Stutt, Paul Nadan, Joe Payne, James Zhu
+  group: more
+  image: images/minirhex.png
+  link: sessions/mini-r-hex
+  description: Learn about the basics of robotic locomotion
+  # repo: greenelab/lab-website-template
+  # https://gifer.com/en/46Hi
+  tags:
+    - robotics
+    - motion
+
