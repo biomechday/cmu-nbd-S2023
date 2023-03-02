@@ -10,5 +10,5 @@ links:
   twitter: schnemik
 ---
 
-Mikayla assists with recruiting new student volunteers, helping session leaders plan their activities, and building connections with industry partners. She is a PhD candidate in Mechanical Engineering and her research interests include musculoskeletal 
+Mikayla assists with recruiting new student volunteers, helping session leaders plan their activities, and building connections with industry partners. She is a Masters student in Mechanical Engineering and her research interests include musculoskeletal 
 biomechanics.

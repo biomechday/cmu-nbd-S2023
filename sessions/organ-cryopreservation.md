@@ -1,13 +1,13 @@
 ---
-title: Organ Cryopreservation
+title: Challenges during Organ Preservation
 ---
 
-# Organ Cryopreservation
+# Challenges during Organ Preservation
 
 {% capture text %}
 
 
-Learn about how low temperatures affect organ preservation.
+Learn about current organ preservation methods, their limitations and challenges during whole organ cryopreservation. Demonstrate the deformation of CPA during cooling and fracturing due to high thermal stress during vitrification using scanning cryomacroscope. Briefly describe the mathematical modeling to understand the effects during cryopreservation.
 
 
 {:.center}
@@ -31,5 +31,11 @@ Learn about how low temperatures affect organ preservation.
   data="members"
   component="portrait"
   filters="name: Devarsh Vispute"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="name: Rounak Baheti"
 %}
 {:.center}

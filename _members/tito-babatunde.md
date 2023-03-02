@@ -12,6 +12,5 @@ links:
   twitter: titobabatunde
 ---
 
-Nataliya is a PhD candidate in Mechanical Engineering.
-Her research interests include DNA nanotechnology,
+Tito is a PhD candidate in Mechanical Engineering. Her research interests include DNA nanotechnology,
 generative design, and computer-aided design.

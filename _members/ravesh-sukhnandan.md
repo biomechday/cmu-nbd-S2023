@@ -9,5 +9,5 @@ aliases:
 ---
 
 Ravesh is a PhD candidate in Mechanical Engineering.
-Her research interests include soft robots, 
+His research interests include soft robots, 
 bioinspired robots, and muscle mechanics.

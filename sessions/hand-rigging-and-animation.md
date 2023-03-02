@@ -1,13 +1,13 @@
 ---
-title: Markerless Motion Capture
+title: Biomechanics of Hand Rigging and Animation
 ---
 
-# Markerless Motion Capture
+# Biomechanics of Hand Rigging and Animation
 
 {% capture text %}
 
 
-Learn about markerless motion capture using inertial measurement units (IMUs) and smarphone cameras, plus its application in biomechanics research. Participate in a skeletal dancing challenge!
+Learning the process of 3D character animation through the rigging and animating of “Thing” from The Addams Family.
 
 
 {:.center}
@@ -15,7 +15,7 @@ Learn about markerless motion capture using inertial measurement units (IMUs) an
 
 {%
   include feature.html
-  image="images/motion-capture.jpg"
+  image="images/hand-rigging.png"
   text=text
 %}
 
@@ -30,12 +30,12 @@ Learn about markerless motion capture using inertial measurement units (IMUs) an
   include list.html
   data="members"
   component="portrait"
-  filters="name: Vu Phan"
+  filters="name: Dailyn Despradel"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="name: Jack Li"
+  filters="name: Prakarsh Yadav"
 %}
 {:.center}

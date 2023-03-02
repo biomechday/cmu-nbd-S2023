@@ -7,7 +7,7 @@ title: Become a Rock Climber
 {% capture text %}
 
 
-Learn about the biomechanics of rock climbing. Become Alex Honnold is 60 minutes or less guaranteed.
+Explore different ways in which we can leverage biomechanics in and around the sport of rock climbing.
 
 
 {:.center}

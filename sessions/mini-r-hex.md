@@ -1,13 +1,13 @@
 ---
-title: Markerless Motion Capture
+title: MiniRHex
 ---
 
-# Markerless Motion Capture
+# MiniRHex
 
 {% capture text %}
 
 
-Learn about markerless motion capture using inertial measurement units (IMUs) and smarphone cameras, plus its application in biomechanics research. Participate in a skeletal dancing challenge!
+Learn about the basics of robotic locomotion. Customize your MiniRHex robot to beat an obstacle course.
 
 
 {:.center}
@@ -15,7 +15,7 @@ Learn about markerless motion capture using inertial measurement units (IMUs) an
 
 {%
   include feature.html
-  image="images/motion-capture.jpg"
+  image="images/minirhex.png"
   text=text
 %}
 
@@ -30,12 +30,24 @@ Learn about markerless motion capture using inertial measurement units (IMUs) an
   include list.html
   data="members"
   component="portrait"
-  filters="name: Vu Phan"
+  filters="name: Alex Stutt"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="name: Jack Li"
+  filters="name: Paul Nadan"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="name: Joe Payne"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="name: James Zhu"
 %}
 {:.center}
