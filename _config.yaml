@@ -6,7 +6,7 @@ description: Welcome to National Biomechanics Day at CMU!
 logo: images/cmu-nbd-logo-2.svg
 header: images/cmu-banner-3.png
 footer: images/cmu-banner-inkscapepng-8.png
-baseurl: /cmu-nbd-S2023
+baseurl: ""
 # images/background.jpg
 
 # site social media and other links
